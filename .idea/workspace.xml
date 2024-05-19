@@ -5,22 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02045bb6-708e-4643-afa8-b4585a4b66e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1_Begnning/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Begnning/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Variables/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Variables/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Variables/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Arithmetic_operation/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Arithmetic_operation/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Arithmetic_operation/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_Accept_user_input/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_Accept_user_input/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_Accept_user_input/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templet/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templet/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templet/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_If statements/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_If statements/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_ Checked property/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_ Checked property/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_ Checked property/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_String methods/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_String methods/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_String methods/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Constants/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Constants/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Constants/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_ Counter program/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_ Counter program/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_ Counter program/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_Math object/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_Math object/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Random number generator/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Random number generator/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Random number generator/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_Begnning/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_Type_Conversion/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/5_Type_Conversion/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_Type_Conversion/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/10_If statements/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +46,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2gZnN4OhNLBC3YWPQXc7SErMXBy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,7 +60,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "F:/LearningJavaScript/4_Accept_user_input",
+    "last_opened_file_path": "F:/LearningJavaScript/12_String methods",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -63,10 +72,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\LearningJavaScript\4_Accept_user_input" />
-      <recent name="F:\LearningJavaScript\3_Arithmetic_operation" />
-      <recent name="F:\LearningJavaScript\templet" />
-      <recent name="F:\LearningJavaScript\2_Variables" />
+      <recent name="F:\LearningJavaScript\12_String methods" />
+      <recent name="F:\LearningJavaScript\11_ Checked property" />
+      <recent name="F:\LearningJavaScript\10_If statements" />
+      <recent name="F:\LearningJavaScript\10_If statements " />
+      <recent name="F:\LearningJavaScript\9_Random number generator" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\LearningJavaScript\10_If statements" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -78,7 +91,9 @@
       <option name="presentableId" value="Default" />
       <updated>1715913927442</updated>
       <workItem from="1715913928433" duration="30000" />
-      <workItem from="1715917249959" duration="3578000" />
+      <workItem from="1715917249959" duration="7159000" />
+      <workItem from="1716088501750" duration="728000" />
+      <workItem from="1716089283370" duration="4791000" />
     </task>
     <servers />
   </component>
