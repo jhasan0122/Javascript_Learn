@@ -5,28 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02045bb6-708e-4643-afa8-b4585a4b66e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/10_If statements/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_If statements/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_ Checked property/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_ Checked property/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_ Checked property/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_String methods/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_String methods/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_String methods/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_Constants/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_Constants/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_Constants/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_ Counter program/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_ Counter program/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_ Counter program/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_Math object/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_Math object/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_Random number generator/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_Random number generator/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_Random number generator/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_String_slicing/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_String_slicing/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Method_chaining/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Method_chaining/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_ Logical_operators/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_ Logical_operators/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_ Logical_operators/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Strict_equality/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Strict_equality/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Strict_equality/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_while/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_while/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_Type_Conversion/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/5_Type_Conversion/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_Type_Conversion/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/10_If statements/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_String methods/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/12_String methods/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_String methods/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/14_Method_chaining/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templet/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templet/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +31,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -60,7 +54,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "F:/LearningJavaScript/12_String methods",
+    "last_opened_file_path": "F:/LearningJavaScript/17_while",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -72,11 +66,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\LearningJavaScript\12_String methods" />
-      <recent name="F:\LearningJavaScript\11_ Checked property" />
-      <recent name="F:\LearningJavaScript\10_If statements" />
-      <recent name="F:\LearningJavaScript\10_If statements " />
-      <recent name="F:\LearningJavaScript\9_Random number generator" />
+      <recent name="F:\LearningJavaScript\17_while" />
+      <recent name="F:\LearningJavaScript\16_Strict_equality" />
+      <recent name="F:\LearningJavaScript\15_ Logical_operators" />
+      <recent name="F:\LearningJavaScript\14_Method_chaining" />
+      <recent name="F:\LearningJavaScript\13_String slicing " />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\LearningJavaScript\10_If statements" />
@@ -94,6 +88,9 @@
       <workItem from="1715917249959" duration="7159000" />
       <workItem from="1716088501750" duration="728000" />
       <workItem from="1716089283370" duration="4791000" />
+      <workItem from="1716186414684" duration="1147000" />
+      <workItem from="1716459432593" duration="1120000" />
+      <workItem from="1716461460884" duration="1309000" />
     </task>
     <servers />
   </component>
