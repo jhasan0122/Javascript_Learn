@@ -5,22 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02045bb6-708e-4643-afa8-b4585a4b66e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/13_String_slicing/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_String_slicing/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_Method_chaining/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_Method_chaining/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_ Logical_operators/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_ Logical_operators/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_ Logical_operators/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16_Strict_equality/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16_Strict_equality/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16_Strict_equality/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_while/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_while/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Number_guessing_game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Number_guessing_game/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Number_guessing_game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Functions/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Functions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_Variable_scope/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_Variable_scope/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_Temperature_conversion_program/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_Temperature_conversion_program/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_Temperature_conversion_program/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Array/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Array/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_String methods/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/12_String methods/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_String methods/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/14_Method_chaining/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templet/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templet/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "F:/LearningJavaScript/17_while",
+    "last_opened_file_path": "F:/LearningJavaScript/22_Array",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -66,13 +63,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\LearningJavaScript\17_while" />
-      <recent name="F:\LearningJavaScript\16_Strict_equality" />
-      <recent name="F:\LearningJavaScript\15_ Logical_operators" />
-      <recent name="F:\LearningJavaScript\14_Method_chaining" />
-      <recent name="F:\LearningJavaScript\13_String slicing " />
+      <recent name="F:\LearningJavaScript\22_Array" />
+      <recent name="F:\LearningJavaScript\21_Temperature_conversion_program" />
+      <recent name="F:\LearningJavaScript\20_Variable_scope" />
+      <recent name="F:\LearningJavaScript\19_Functions " />
+      <recent name="F:\LearningJavaScript\18_Number_guessing_game" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\LearningJavaScript\19_Functions" />
+      <recent name="F:\LearningJavaScript\19_Functions " />
       <recent name="F:\LearningJavaScript\10_If statements" />
     </key>
   </component>
@@ -91,6 +90,7 @@
       <workItem from="1716186414684" duration="1147000" />
       <workItem from="1716459432593" duration="1120000" />
       <workItem from="1716461460884" duration="1309000" />
+      <workItem from="1716950891906" duration="6844000" />
     </task>
     <servers />
   </component>
