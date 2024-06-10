@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02045bb6-708e-4643-afa8-b4585a4b66e7" name="Changes" comment="oop in js">
-      <change afterPath="$PROJECT_DIR$/40_getter_setter/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/40_getter_setter/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/41_Destructuring/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/41_Destructuring/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templet/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/templet/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="02045bb6-708e-4643-afa8-b4585a4b66e7" name="Changes" comment="oop in js" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +91,7 @@
       <workItem from="1717906374942" duration="2081000" />
       <workItem from="1717931007373" duration="4435000" />
       <workItem from="1717937996485" duration="5720000" />
+      <workItem from="1718013073260" duration="40000" />
     </task>
     <task id="LOCAL-00001" summary="oop in js">
       <created>1717936447014</created>
@@ -106,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1717936447014</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="oop in js">
+      <created>1718013099071</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718013099071</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
