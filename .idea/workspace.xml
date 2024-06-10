@@ -4,22 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02045bb6-708e-4643-afa8-b4585a4b66e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/35_Constructor/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/35_Constructor/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/36_Classes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/36_Classes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/37_Static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/37_Static/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/38_Inheritance/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/38_Inheritance/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/39_Super/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/39_Super/index.js" afterDir="false" />
+    <list default="true" id="02045bb6-708e-4643-afa8-b4585a4b66e7" name="Changes" comment="oop in js">
+      <change afterPath="$PROJECT_DIR$/40_getter_setter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40_getter_setter/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/41_Destructuring/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/41_Destructuring/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/34_THIS/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/34_THIS/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/34_THIS/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templet/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templet/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templet/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templet/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/templet/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,11 +96,24 @@
       <workItem from="1717767161984" duration="8794000" />
       <workItem from="1717776900520" duration="1806000" />
       <workItem from="1717906374942" duration="2081000" />
-      <workItem from="1717931007373" duration="4137000" />
+      <workItem from="1717931007373" duration="4435000" />
+      <workItem from="1717937996485" duration="5720000" />
     </task>
+    <task id="LOCAL-00001" summary="oop in js">
+      <created>1717936447014</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717936447014</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="oop in js" />
+    <option name="LAST_COMMIT_MESSAGE" value="oop in js" />
   </component>
 </project>
