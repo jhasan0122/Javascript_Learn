@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02045bb6-708e-4643-afa8-b4585a4b66e7" name="Changes" comment="oop in js">
-      <change afterPath="$PROJECT_DIR$/40_getter_setter/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/40_getter_setter/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/41_Destructuring/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/41_Destructuring/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42_nested objects/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42_nested objects/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43_Array_of_object/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43_Array_of_object/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44_Sort/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44_Sort/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/41_Destructuring/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/41_Destructuring/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templet/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/templet/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,6 +101,7 @@
       <workItem from="1717906374942" duration="2081000" />
       <workItem from="1717931007373" duration="4435000" />
       <workItem from="1717937996485" duration="5720000" />
+      <workItem from="1718013856357" duration="4861000" />
     </task>
     <task id="LOCAL-00001" summary="oop in js">
       <created>1717936447014</created>
