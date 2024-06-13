@@ -36,11 +36,32 @@ const liElements = document.getElementsByTagName("li");
 //     liElement.style.backgroundColor = "lightgreen";
 // }
 
-Array.from(h4Elements).forEach(h4Element => {
-    h4Element.style.backgroundColor = "yellow";
-});
+// Array.from(h4Elements).forEach(h4Element => {
+//     h4Element.style.backgroundColor = "yellow";
+// });
+//
+// Array.from(liElements).forEach(liElement => {
+//     liElement.style.backgroundColor = "lightgreen";
+// });
+//
+// const element = document.querySelector(".fruits");
+//
+// element.style.backgroundColor = "yellow";
 
-Array.from(liElements).forEach(liElement => {
-    liElement.style.backgroundColor = "lightgreen";
-});
+
+
+
+// const fruits = document.querySelectorAll(".fruits");
+//
+// fruits[2].style.backgroundColor = "yellow";
+
+const foods = document.querySelectorAll("li");
+
+// foods[2].style.backgroundColor = "yellow";
+console.log(foods);
+
+foods.forEach(food => {
+    food.style.backgroundColor = "yellow";
+})
+
 

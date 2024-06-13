@@ -4,40 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02045bb6-708e-4643-afa8-b4585a4b66e7" name="Changes" comment="oop in js">
-      <change afterPath="$PROJECT_DIR$/45_Shuffle_the_element/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/45_Shuffle_the_element/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/46_Dates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/46_Dates/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/47_Closures/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/47_Closures/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/48_setTimeOut/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/48_setTimeOut/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/49_digital_clock/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/49_digital_clock/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/49_digital_clock/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/50_Stopwatch/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/50_Stopwatch/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/50_Stopwatch/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/52_ES6_Module/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/52_ES6_Module/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/52_ES6_Module/mathUtil.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/53_Asynchoronus_code/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/53_Asynchoronus_code/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/54_Error_Handing/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/54_Error_Handing/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/55_Calculator/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/55_Calculator/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/55_Calculator/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/56_DOM/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/56_DOM/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/57_Element_selector/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/57_Element_selector/index.js" afterDir="false" />
+    <list default="true" id="02045bb6-708e-4643-afa8-b4585a4b66e7" name="Changes" comment="document">
+      <change afterPath="$PROJECT_DIR$/58_DOM_Navigation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58_DOM_Navigation/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_Variables/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/2_Variables/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Arithmetic_operation/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/3_Arithmetic_operation/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/44_Sort/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/44_Sort/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Accept_user_input/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/4_Accept_user_input/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/57_Element_selector/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/57_Element_selector/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +112,7 @@
       <workItem from="1718013856357" duration="4932000" />
       <workItem from="1718201390467" duration="7708000" />
       <workItem from="1718248007038" duration="996000" />
-      <workItem from="1718250283580" duration="4925000" />
+      <workItem from="1718250283580" duration="7333000" />
     </task>
     <task id="LOCAL-00001" summary="oop in js">
       <created>1717936447014</created>
@@ -157,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718018780571</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="document">
+      <created>1718255410935</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718255410935</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +143,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="oop in js" />
-    <option name="LAST_COMMIT_MESSAGE" value="oop in js" />
+    <MESSAGE value="document" />
+    <option name="LAST_COMMIT_MESSAGE" value="document" />
   </component>
 </project>
