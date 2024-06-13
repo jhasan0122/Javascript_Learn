@@ -1,4 +1,10 @@
-
+// variable = A container that stores a value.
+//     Behaves as if it were the value it contains.
+// 1. declaration
+// 2. assignment
+// let x;
+// X = 100;
+//---------------------------------------------------
 
 let age = 25 ;
 

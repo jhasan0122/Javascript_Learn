@@ -5,15 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02045bb6-708e-4643-afa8-b4585a4b66e7" name="Changes" comment="oop in js">
-      <change afterPath="$PROJECT_DIR$/42_nested objects/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/42_nested objects/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/43_Array_of_object/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/43_Array_of_object/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/44_Sort/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/44_Sort/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/45_Shuffle_the_element/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/45_Shuffle_the_element/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46_Dates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46_Dates/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47_Closures/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47_Closures/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/48_setTimeOut/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/48_setTimeOut/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/49_digital_clock/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/49_digital_clock/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/49_digital_clock/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/50_Stopwatch/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/50_Stopwatch/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/50_Stopwatch/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/52_ES6_Module/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/52_ES6_Module/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/52_ES6_Module/mathUtil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/53_Asynchoronus_code/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/53_Asynchoronus_code/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/54_Error_Handing/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/54_Error_Handing/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/55_Calculator/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/55_Calculator/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/55_Calculator/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_DOM/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_DOM/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/57_Element_selector/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/57_Element_selector/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/41_Destructuring/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/41_Destructuring/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templet/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/templet/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Variables/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/2_Variables/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Arithmetic_operation/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/3_Arithmetic_operation/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/44_Sort/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/44_Sort/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Accept_user_input/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/4_Accept_user_input/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,14 +47,27 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="eea0c1c3-709e-4462-a611-89044608dac7" />
+        <option name="url" value="https://github.com/jhasan0122/Javascript_Learn.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2gZnN4OhNLBC3YWPQXc7SErMXBy" />
   <component name="ProjectLevelVcsManager">
@@ -101,7 +138,10 @@
       <workItem from="1717906374942" duration="2081000" />
       <workItem from="1717931007373" duration="4435000" />
       <workItem from="1717937996485" duration="5720000" />
-      <workItem from="1718013856357" duration="4861000" />
+      <workItem from="1718013856357" duration="4932000" />
+      <workItem from="1718201390467" duration="7708000" />
+      <workItem from="1718248007038" duration="996000" />
+      <workItem from="1718250283580" duration="4925000" />
     </task>
     <task id="LOCAL-00001" summary="oop in js">
       <created>1717936447014</created>
@@ -110,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1717936447014</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="oop in js">
+      <created>1718018780571</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718018780571</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
