@@ -4,43 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02045bb6-708e-4643-afa8-b4585a4b66e7" name="Changes" comment="event">
-      <change afterPath="$PROJECT_DIR$/61_Key_Events/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/61_Key_Events/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/61_Key_Events/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/62_Hide_and_Show_HTML/car.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/62_Hide_and_Show_HTML/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/62_Hide_and_Show_HTML/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/62_Hide_and_Show_HTML/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/63_NodeList/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/63_NodeList/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/63_NodeList/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/64_ClassList/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/64_ClassList/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/64_ClassList/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/65_Rock_Paper_Scissors/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/65_Rock_Paper_Scissors/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/65_Rock_Paper_Scissors/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/66_Image_Slide/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/66_Image_Slide/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/66_Image_Slide/pic/car1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/66_Image_Slide/pic/car2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/66_Image_Slide/pic/car3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/66_Image_Slide/pic/car4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/66_Image_Slide/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/67_Callback_hell/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/67_Callback_hell/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/68_Promise/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/68_Promise/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/69_Async_Await/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/69_Async_Await/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/70_JSON/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/70_JSON/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/70_JSON/names.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/70_JSON/people.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/70_JSON/person.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/71_Fetch_data_from_API/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/71_Fetch_data_from_API/index.js" afterDir="false" />
+    <list default="true" id="02045bb6-708e-4643-afa8-b4585a4b66e7" name="Changes" comment="Second Last push">
+      <change afterPath="$PROJECT_DIR$/72_Weather_App_Project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/72_Weather_App_Project/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/72_Weather_App_Project/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +121,7 @@
       <workItem from="1718284222327" duration="2229000" />
       <workItem from="1718288557374" duration="4012000" />
       <workItem from="1718293681928" duration="1013000" />
-      <workItem from="1718338738964" duration="7621000" />
+      <workItem from="1718338738964" duration="9860000" />
     </task>
     <task id="LOCAL-00001" summary="oop in js">
       <created>1717936447014</created>
@@ -191,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718262001221</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Second Last push">
+      <created>1718346615119</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718346615119</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +177,7 @@
     <MESSAGE value="document" />
     <MESSAGE value="document man.." />
     <MESSAGE value="event" />
-    <option name="LAST_COMMIT_MESSAGE" value="event" />
+    <MESSAGE value="Second Last push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Last push" />
   </component>
 </project>
