@@ -4,9 +4,212 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02045bb6-708e-4643-afa8-b4585a4b66e7" name="Changes" comment="Second Last push">
+    <list default="true" id="02045bb6-708e-4643-afa8-b4585a4b66e7" name="Changes" comment=" Last push">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_NodeJS/1_Introduction/math.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_NodeJS/1_Introduction/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_NodeJS/2_Read_Write_Files/dfsdf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_NodeJS/2_Read_Write_Files/dir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_NodeJS/2_Read_Write_Files/files/lorem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_NodeJS/2_Read_Write_Files/files/new-lorem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_NodeJS/2_Read_Write_Files/files/newReply.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_NodeJS/2_Read_Write_Files/files/promiseComplete.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_NodeJS/2_Read_Write_Files/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_NodeJS/2_Read_Write_Files/index2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_NodeJS/2_Read_Write_Files/stream.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/72_Weather_App_Project/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/72_Weather_App_Project/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_If statements/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/10_If statements/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_If statements/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/10_If statements/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_If statements/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/10_If statements/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_ Checked property/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/11_ Checked property/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_ Checked property/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/11_ Checked property/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_ Checked property/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/11_ Checked property/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_String methods/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/12_String methods/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_String methods/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/12_String methods/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_String_slicing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/13_String_slicing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_String_slicing/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/13_String_slicing/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Method_chaining/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/14_Method_chaining/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Method_chaining/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/14_Method_chaining/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Method_chaining/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/14_Method_chaining/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_ Logical_operators/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/15_ Logical_operators/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_ Logical_operators/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/15_ Logical_operators/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_ Logical_operators/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/15_ Logical_operators/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_Strict_equality/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/16_Strict_equality/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_Strict_equality/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/16_Strict_equality/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_Strict_equality/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/16_Strict_equality/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17_while/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/17_while/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17_while/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/17_while/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/18_Number_guessing_game/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/18_Number_guessing_game/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/18_Number_guessing_game/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/18_Number_guessing_game/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/18_Number_guessing_game/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/18_Number_guessing_game/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_Functions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/19_Functions/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_Functions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/19_Functions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Begnning/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/1_Begnning/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Begnning/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/1_Begnning/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Begnning/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/1_Begnning/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Variable_scope/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/20_Variable_scope/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_Variable_scope/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/20_Variable_scope/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_Temperature_conversion_program/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/21_Temperature_conversion_program/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_Temperature_conversion_program/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/21_Temperature_conversion_program/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_Temperature_conversion_program/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/21_Temperature_conversion_program/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_Array/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/22_Array/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_Array/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/22_Array/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_Spread operator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/23_Spread operator/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_Spread operator/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/23_Spread operator/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24_Rest parameters/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/24_Rest parameters/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24_Rest parameters/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/24_Rest parameters/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25_Dice rollar programme/img/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/25_Dice rollar programme/img/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25_Dice rollar programme/img/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/25_Dice rollar programme/img/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25_Dice rollar programme/img/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/25_Dice rollar programme/img/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25_Dice rollar programme/img/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/25_Dice rollar programme/img/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25_Dice rollar programme/img/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/25_Dice rollar programme/img/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25_Dice rollar programme/img/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/25_Dice rollar programme/img/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25_Dice rollar programme/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/25_Dice rollar programme/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25_Dice rollar programme/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/25_Dice rollar programme/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25_Dice rollar programme/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/25_Dice rollar programme/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Random_password_generator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/26_Random_password_generator/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_Random_password_generator/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/26_Random_password_generator/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27_Callback/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/27_Callback/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27_Callback/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/27_Callback/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28_forEach/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/28_forEach/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28_forEach/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/28_forEach/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28_map/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/28_map/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28_map/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/28_map/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/29_filter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/29_filter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/29_filter/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/29_filter/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Variables/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/2_Variables/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Variables/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/2_Variables/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Variables/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/2_Variables/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30_reduce/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/30_reduce/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30_reduce/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/30_reduce/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/31_Function Expression/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/31_Function Expression/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/31_Function Expression/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/31_Function Expression/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32_Arrow/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/32_Arrow/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32_Arrow/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/32_Arrow/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/33_Ojects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/33_Ojects/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/33_Ojects/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/33_Ojects/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34_THIS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/34_THIS/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34_THIS/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/34_THIS/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35_Constructor/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/35_Constructor/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35_Constructor/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/35_Constructor/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36_Classes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/36_Classes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36_Classes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/36_Classes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/37_Static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/37_Static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/37_Static/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/37_Static/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/38_Inheritance/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/38_Inheritance/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/38_Inheritance/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/38_Inheritance/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/39_Super/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/39_Super/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/39_Super/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/39_Super/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Arithmetic_operation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/3_Arithmetic_operation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Arithmetic_operation/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/3_Arithmetic_operation/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Arithmetic_operation/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/3_Arithmetic_operation/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/40_getter_setter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/40_getter_setter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/40_getter_setter/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/40_getter_setter/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/41_Destructuring/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/41_Destructuring/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/41_Destructuring/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/41_Destructuring/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/42_nested objects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/42_nested objects/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/42_nested objects/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/42_nested objects/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/43_Array_of_object/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/43_Array_of_object/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/43_Array_of_object/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/43_Array_of_object/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/44_Sort/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/44_Sort/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/44_Sort/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/44_Sort/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45_Shuffle_the_element/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/45_Shuffle_the_element/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45_Shuffle_the_element/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/45_Shuffle_the_element/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/46_Dates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/46_Dates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/46_Dates/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/46_Dates/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/47_Closures/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/47_Closures/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/47_Closures/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/47_Closures/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/48_setTimeOut/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/48_setTimeOut/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/48_setTimeOut/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/48_setTimeOut/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/49_digital_clock/cloack.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/49_digital_clock/cloack.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/49_digital_clock/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/49_digital_clock/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/49_digital_clock/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/49_digital_clock/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/49_digital_clock/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/49_digital_clock/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Accept_user_input/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/4_Accept_user_input/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Accept_user_input/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/4_Accept_user_input/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Accept_user_input/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/4_Accept_user_input/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/50_Stopwatch/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/50_Stopwatch/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/50_Stopwatch/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/50_Stopwatch/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/50_Stopwatch/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/50_Stopwatch/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/52_ES6_Module/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/52_ES6_Module/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/52_ES6_Module/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/52_ES6_Module/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/52_ES6_Module/mathUtil.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/52_ES6_Module/mathUtil.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/53_Asynchoronus_code/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/53_Asynchoronus_code/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/53_Asynchoronus_code/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/53_Asynchoronus_code/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/54_Error_Handing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/54_Error_Handing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/54_Error_Handing/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/54_Error_Handing/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/55_Calculator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/55_Calculator/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/55_Calculator/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/55_Calculator/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/55_Calculator/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/55_Calculator/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/56_DOM/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/56_DOM/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/56_DOM/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/56_DOM/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/57_Element_selector/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/57_Element_selector/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/57_Element_selector/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/57_Element_selector/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/58_DOM_Navigation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/58_DOM_Navigation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/58_DOM_Navigation/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/58_DOM_Navigation/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/59_HTML_add_and_change/another_exp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/59_HTML_add_and_change/another_exp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/59_HTML_add_and_change/another_exp/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/59_HTML_add_and_change/another_exp/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/59_HTML_add_and_change/another_exp/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/59_HTML_add_and_change/another_exp/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/59_HTML_add_and_change/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/59_HTML_add_and_change/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/59_HTML_add_and_change/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/59_HTML_add_and_change/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_Type_Conversion/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/5_Type_Conversion/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_Type_Conversion/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/5_Type_Conversion/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/60_Mouse_Event/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/60_Mouse_Event/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/60_Mouse_Event/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/60_Mouse_Event/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/60_Mouse_Event/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/60_Mouse_Event/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/61_Key_Events/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/61_Key_Events/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/61_Key_Events/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/61_Key_Events/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/61_Key_Events/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/61_Key_Events/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/62_Hide_and_Show_HTML/car.png" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/62_Hide_and_Show_HTML/car.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/62_Hide_and_Show_HTML/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/62_Hide_and_Show_HTML/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/62_Hide_and_Show_HTML/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/62_Hide_and_Show_HTML/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/62_Hide_and_Show_HTML/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/62_Hide_and_Show_HTML/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/63_NodeList/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/63_NodeList/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/63_NodeList/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/63_NodeList/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/63_NodeList/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/63_NodeList/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/64_ClassList/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/64_ClassList/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/64_ClassList/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/64_ClassList/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/64_ClassList/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/64_ClassList/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/65_Rock_Paper_Scissors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/65_Rock_Paper_Scissors/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/65_Rock_Paper_Scissors/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/65_Rock_Paper_Scissors/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/65_Rock_Paper_Scissors/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/65_Rock_Paper_Scissors/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/66_Image_Slide/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/66_Image_Slide/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/66_Image_Slide/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/66_Image_Slide/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/66_Image_Slide/pic/car1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/66_Image_Slide/pic/car1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/66_Image_Slide/pic/car2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/66_Image_Slide/pic/car2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/66_Image_Slide/pic/car3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/66_Image_Slide/pic/car3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/66_Image_Slide/pic/car4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/66_Image_Slide/pic/car4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/66_Image_Slide/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/66_Image_Slide/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/67_Callback_hell/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/67_Callback_hell/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/67_Callback_hell/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/67_Callback_hell/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/68_Promise/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/68_Promise/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/68_Promise/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/68_Promise/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/69_Async_Await/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/69_Async_Await/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/69_Async_Await/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/69_Async_Await/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_Constants/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/6_Constants/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_Constants/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/6_Constants/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_Constants/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/6_Constants/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/70_JSON/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/70_JSON/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/70_JSON/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/70_JSON/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/70_JSON/names.json" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/70_JSON/names.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/70_JSON/people.json" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/70_JSON/people.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/70_JSON/person.json" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/70_JSON/person.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/71_Fetch_data_from_API/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/71_Fetch_data_from_API/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/71_Fetch_data_from_API/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/71_Fetch_data_from_API/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/72_Weather_App_Project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/72_Weather_App_Project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/72_Weather_App_Project/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/72_Weather_App_Project/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/72_Weather_App_Project/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/72_Weather_App_Project/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_ Counter program/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/7_ Counter program/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_ Counter program/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/7_ Counter program/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_ Counter program/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/7_ Counter program/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Math object/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/8_Math object/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_Math object/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/8_Math object/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9_Random number generator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/9_Random number generator/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9_Random number generator/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/9_Random number generator/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9_Random number generator/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/1_JavaScript/9_Random number generator/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +219,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="tsconfig.json" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -38,6 +241,12 @@
         <option name="url" value="https://github.com/jhasan0122/Javascript_Learn.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2gZnN4OhNLBC3YWPQXc7SErMXBy" />
   <component name="ProjectLevelVcsManager">
@@ -61,7 +270,8 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;two.files.diff.last.used.file&quot;: &quot;F:/Javascript_Learn/34_THIS/style.css&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -75,11 +285,11 @@
       <recent name="F:\LearningJavaScript\templet" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Javascript_Learn\2_NodeJS\2_Read_Write_Files" />
+      <recent name="F:\Javascript_Learn\2_NodeJS\1_Introduction" />
+      <recent name="F:\Javascript_Learn" />
+      <recent name="F:\Javascript_Learn\1_JavaScript" />
       <recent name="F:\Javascript_Learn\66_Image_Slide" />
-      <recent name="F:\LearningJavaScript\33_Ojects" />
-      <recent name="F:\LearningJavaScript\19_Functions" />
-      <recent name="F:\LearningJavaScript\19_Functions " />
-      <recent name="F:\LearningJavaScript\10_If statements" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -120,7 +330,11 @@
       <workItem from="1718288557374" duration="4012000" />
       <workItem from="1718293681928" duration="1013000" />
       <workItem from="1718338738964" duration="10262000" />
-      <workItem from="1718353165010" duration="524000" />
+      <workItem from="1718353165010" duration="581000" />
+      <workItem from="1718357587842" duration="1316000" />
+      <workItem from="1718360144771" duration="251000" />
+      <workItem from="1718360409081" duration="3525000" />
+      <workItem from="1718373677726" duration="5411000" />
     </task>
     <task id="LOCAL-00001" summary="oop in js">
       <created>1717936447014</created>
@@ -171,11 +385,29 @@
       <option name="project" value="LOCAL" />
       <updated>1718349079109</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=" Last push">
+      <created>1718353734217</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718353734217</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -184,6 +416,7 @@
     <MESSAGE value="document man.." />
     <MESSAGE value="event" />
     <MESSAGE value="Second Last push" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second Last push" />
+    <MESSAGE value=" Last push" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Last push" />
   </component>
 </project>

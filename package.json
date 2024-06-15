@@ -1,0 +1,19 @@
+{
+  "name": "javascript_learn",
+  "version": "1.0.0",
+  "main": "2_NodeJS/3_Node_Package_Manager/index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
